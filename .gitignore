@@ -9,6 +9,7 @@ pids
 
 # Dependency directory
 node_modules
+public/systemjs/jspm*
 
 # Build folder
 build
