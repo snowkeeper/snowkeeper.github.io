@@ -50,7 +50,7 @@ System.config({
     "react-router": "npm:react-router@1.0.0-rc3",
     "showdown": "github:showdownjs/showdown@1.2.3",
     "striptags": "npm:striptags@2.0.4",
-    "tag-search": "npm:tag-search@0.0.20",
+    "tag-search": "npm:tag-search@0.0.21",
     "util": "github:jspm/nodelibs-util@0.1.0",
     "github:guybedford/system-md@0.0.2": {
       "showdown": "github:showdownjs/showdown@1.2.3"
@@ -563,7 +563,7 @@ System.config({
     "npm:string_decoder@0.10.31": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0"
     },
-    "npm:tag-search@0.0.20": {
+    "npm:tag-search@0.0.21": {
       "debug": "npm:debug@2.2.0",
       "jquery": "npm:jquery@2.1.4",
       "lodash": "npm:lodash@3.10.1",
